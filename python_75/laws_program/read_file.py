@@ -11,5 +11,5 @@ with open(r'./test.txt', 'w') as fp:
     print(x[:length])
     fp.write("%s\n" % x[:length])
     if i%5 == 0:
-      fp.write("\n\n")
+      fp.write("\n")
     i += 1
