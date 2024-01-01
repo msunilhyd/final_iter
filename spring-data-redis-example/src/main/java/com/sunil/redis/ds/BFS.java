@@ -2,7 +2,7 @@ package com.sunil.redis.ds;
 
 import java.util.*;
 
-public class DFS {
+public class BFS {
 
     public static void main(String[] args) {
 
@@ -30,17 +30,17 @@ public class DFS {
         }
 
         Set<Integer> visited = new HashSet<>();
-        Stack<Integer> stack = new Stack<>();
+        LinkedList<Integer> stack = new LinkedList<>();
 
-        stack.push(edges[0][0]);
+        stack.add(edges[0][0]);
 
         while(!stack.isEmpty()) {
-            int node = stack.pop();
+            int node = stack.poll();
             visited.add(node);
             System.out.println(node);
             for (int i : graph.get(node)) {
                 if (!visited.contains(i)) {
-                    stack.push(i);
+                    stack.add(i);
                     visited.add(i);
                 }
             }
