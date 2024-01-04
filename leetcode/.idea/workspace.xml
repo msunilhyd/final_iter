@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="111e6f41-a59e-4859-a1ce-4a0e5973b04d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arr/BestTimeBuySellStocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arr/ContainerWithMostWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arr/ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arr/MaxProdSubArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arr/MaxSumSubArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arr/MinInRotatedSortedArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arr/ProductOfArrExceptSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arr/SearchInRotatedSortedArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dp/CoinsChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dp/LongestIncreasingSubSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dp/NoOfWaysToClimbSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/other/StrongWeakPassword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sum/ThreeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sum/TwoSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/dp/LongestCommonSubsequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +43,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StrongWeakPassword">
+  <component name="RunManager" selected="Application.LongestCommonSubsequence">
     <configuration name="CoinsChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.dp.CoinsChange" />
       <module name="leetcode" />
@@ -71,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestIncreasingSubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.dp.LongestIncreasingSubSequence" />
+    <configuration name="LongestCommonSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dp.LongestCommonSubsequence" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NoOfWaysToClimbSteps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.dp.NoOfWaysToClimbSteps" />
+    <configuration name="LongestIncreasingSubSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.dp.LongestIncreasingSubSequence" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestCommonSubsequence" />
         <item itemvalue="Application.StrongWeakPassword" />
         <item itemvalue="Application.LongestIncreasingSubSequence" />
         <item itemvalue="Application.CoinsChange" />
         <item itemvalue="Application.ThreeSum" />
-        <item itemvalue="Application.NoOfWaysToClimbSteps" />
       </list>
     </recent_temporary>
   </component>
