@@ -3,12 +3,8 @@ package org.example.dp;
 public class DecodeWays {
 
     public static void main(String[] args) {
-        String str = "12180";
+        String str = "12120";
         System.out.println(find(str));
-        char c = '2';
-        if (Character.getNumericValue(c) < 7) {
-            System.out.println(true);
-        }
     }
 
     public static int find (String str) {
