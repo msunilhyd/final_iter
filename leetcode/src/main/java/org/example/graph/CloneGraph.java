@@ -1,9 +1,6 @@
 package org.example.graph;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 class Node {
     public int val;
@@ -12,6 +9,8 @@ class Node {
 
 public class CloneGraph {
     public static Map<Node, Node> map = new HashMap<>();
+    public static Set<Node> visited = new HashSet<>();
+    public static Stack<Node> stack = new Stack<>();
     public static void main(String[] args) {
         Node n1 = new Node();
         n1.val = 1;
@@ -31,10 +30,20 @@ public class CloneGraph {
         n4.neigbors.add(n3);
         n4.neigbors.add(n1);
         Node clonedNode = find(n1);
-        System.out.println(clonedNode.val);
-        for (Node node : clonedNode.neigbors) {
-            System.out.println(node.val);
+        printGraph(clonedNode);
+    }
+
+    public static void printGraph(Node node) {
+        if (node != null) {
+            if (!visited.contains(node)) {
+                System.out.println(node.val);
+                visited.add(node);
+                for (Node node1 : node.neigbors) {
+                    printGraph(node1);
+                }
+            }
         }
+
     }
 
     public static Node find(Node node) {
