@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="111e6f41-a59e-4859-a1ce-4a0e5973b04d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/redo/PacificAtlantic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/graph/NoOfIslands.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +43,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.org.example.redo.PacificAtlantic">
+  <component name="RunManager" selected="Application.NoOfIslands">
     <configuration name="CloneGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.graph.CloneGraph" />
       <module name="leetcode" />
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JumpGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.redo.JumpGame" />
+    <configuration name="NoOfIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.graph.NoOfIslands" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.redo.*" />
+          <option name="PATTERN" value="org.example.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NoOfIslands" />
         <item itemvalue="Application.org.example.redo.PacificAtlantic" />
         <item itemvalue="Application.PacificAtlantic" />
         <item itemvalue="Application.CourseSchedule" />
         <item itemvalue="Application.CloneGraph" />
-        <item itemvalue="Application.JumpGame" />
       </list>
     </recent_temporary>
   </component>
