@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="111e6f41-a59e-4859-a1ce-4a0e5973b04d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arr/CanAttendAllMeetings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arr/NonOverlappingInterval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/redo/NonOverlappingInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arr/MeetingRooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/list/DetectCycleInList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/list/Merge2SortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/list/MergeKSortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/list/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/list/ReOrderList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/list/RemoveNthNodeFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/list/ReverseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/list/ReverseListInSizes3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/redo/MeetingRooms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/redo/Merge2SortedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/LongestCommonPrefix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,13 +55,13 @@
     "settings.editor.selected.configurable": "editor.preferences.completion"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CanAttendAllMeetings">
-    <configuration name="CanAttendAllMeetings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.arr.CanAttendAllMeetings" />
+  <component name="RunManager" selected="Application.ReverseListInSizes3">
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.string.LongestCommonPrefix" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.arr.*" />
+          <option name="PATTERN" value="org.example.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.arr.MergeIntervals" />
+    <configuration name="MergeKSortedLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.list.MergeKSortedLists" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.arr.*" />
+          <option name="PATTERN" value="org.example.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NonOverlappingInterval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.arr.NonOverlappingInterval" />
+    <configuration name="ReOrderList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.list.ReOrderList" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.arr.*" />
+          <option name="PATTERN" value="org.example.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.other.PalindromeNumber" />
+    <configuration name="RemoveNthNodeFromEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.list.RemoveNthNodeFromEnd" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.other.*" />
+          <option name="PATTERN" value="org.example.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.redo.NonOverlappingInterval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.redo.NonOverlappingInterval" />
+    <configuration name="ReverseListInSizes3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.list.ReverseListInSizes3" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.redo.*" />
+          <option name="PATTERN" value="org.example.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CanAttendAllMeetings" />
-        <item itemvalue="Application.org.example.redo.NonOverlappingInterval" />
-        <item itemvalue="Application.NonOverlappingInterval" />
-        <item itemvalue="Application.MergeIntervals" />
-        <item itemvalue="Application.PalindromeNumber" />
+        <item itemvalue="Application.ReverseListInSizes3" />
+        <item itemvalue="Application.ReOrderList" />
+        <item itemvalue="Application.RemoveNthNodeFromEnd" />
+        <item itemvalue="Application.MergeKSortedLists" />
+        <item itemvalue="Application.LongestCommonPrefix" />
       </list>
     </recent_temporary>
   </component>
