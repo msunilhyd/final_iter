@@ -6,10 +6,11 @@ import java.util.List;
 public class SpiralMatrix {
 
     public static void main(String[] args) {
-
+        int[][] matrix = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
+        System.out.println(spiralOrder(matrix));
     }
 
-    public List<Integer> spiralOrder(int[][] matrix) {
+    public static List<Integer> spiralOrder(int[][] matrix) {
 
         int visited = 101;
         int rows = matrix.length;
@@ -25,7 +26,7 @@ public class SpiralMatrix {
         matrix[0][0] = visited;
         while(changeDirection < 2) {
             while (row + directions[currentDirection][0] >= 0 &&
-                    row + directions[currentDirection][0] > rows &&
+                    row + directions[currentDirection][0] < rows &&
                     col + directions[currentDirection][1] >= 0 &&
                     col + directions[currentDirection][1] < cols &&
                     matrix[row + directions[currentDirection][0]][col + directions[currentDirection][1]] != visited) {
