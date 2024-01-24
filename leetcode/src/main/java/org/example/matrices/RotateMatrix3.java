@@ -18,7 +18,6 @@ public class RotateMatrix3 {
 
                 matrix[top][l + i] = matrix[bottom][r - i];
                 matrix[bottom][r - i] = matrix[bottom + i][r - l];
-                matrix[bottom + i][r - l] = matrix[][];
             }
         }
     }
