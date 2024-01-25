@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="111e6f41-a59e-4859-a1ce-4a0e5973b04d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/matrices/RotateMatrix4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/matrices/WordSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/matrices/WordSearch2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/matrices/RotateMatrix3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/matrices/RotateMatrix3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RotateMatrix4">
+  <component name="RunManager" selected="Application.WordSearch2">
     <configuration name="RotateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.matrices.RotateMatrix" />
       <module name="leetcode" />
@@ -85,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.matrices.SpiralMatrix" />
+    <configuration name="WordSearch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.matrices.WordSearch2" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WordSearch2" />
         <item itemvalue="Application.RotateMatrix4" />
         <item itemvalue="Application.RotateMatrix2" />
         <item itemvalue="Application.RotateMatrix" />
         <item itemvalue="Application.org.example.redo.SpiralMatrix" />
-        <item itemvalue="Application.SpiralMatrix" />
       </list>
     </recent_temporary>
   </component>
