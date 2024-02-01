@@ -5,8 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="111e6f41-a59e-4859-a1ce-4a0e5973b04d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/matrices/WordSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/matrices/WordSearch2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/redo/BuySellStocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/redo/ContainsDuplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/redo/MaxProdSubArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/redo/MaxSumSubArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/redo/ProdOfArrExSelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/redo/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/GroupAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/LongestPalindromeSubstrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/LongestRepeatingCharacterReplacement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/LongestSubStringWithoutRepeatingChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ValidAnagrams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ValidParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tree/MaxHeight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tree/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +57,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WordSearch2">
-    <configuration name="RotateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.matrices.RotateMatrix" />
+  <component name="RunManager" selected="Application.MaxProdSubArr">
+    <configuration name="BuySellStocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.redo.BuySellStocks" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.matrices.*" />
+          <option name="PATTERN" value="org.example.redo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateMatrix2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.matrices.RotateMatrix2" />
+    <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.redo.ContainsDuplicate" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.matrices.*" />
+          <option name="PATTERN" value="org.example.redo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateMatrix4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.matrices.RotateMatrix4" />
+    <configuration name="MaxProdSubArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.redo.MaxProdSubArr" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.matrices.*" />
+          <option name="PATTERN" value="org.example.redo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordSearch2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.matrices.WordSearch2" />
+    <configuration name="MaxSumSubArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.redo.MaxSumSubArr" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.matrices.*" />
+          <option name="PATTERN" value="org.example.redo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.redo.SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.redo.SpiralMatrix" />
+    <configuration name="ProdOfArrExSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.redo.ProdOfArrExSelf" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WordSearch2" />
-        <item itemvalue="Application.RotateMatrix4" />
-        <item itemvalue="Application.RotateMatrix2" />
-        <item itemvalue="Application.RotateMatrix" />
-        <item itemvalue="Application.org.example.redo.SpiralMatrix" />
+        <item itemvalue="Application.MaxProdSubArr" />
+        <item itemvalue="Application.MaxSumSubArr" />
+        <item itemvalue="Application.ProdOfArrExSelf" />
+        <item itemvalue="Application.ContainsDuplicate" />
+        <item itemvalue="Application.BuySellStocks" />
       </list>
     </recent_temporary>
   </component>
