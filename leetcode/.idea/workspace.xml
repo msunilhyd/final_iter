@@ -5,21 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="111e6f41-a59e-4859-a1ce-4a0e5973b04d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/redo/BuySellStocks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/redo/ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/redo/MaxProdSubArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/redo/MaxSumSubArr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/redo/ProdOfArrExSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/redo/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/GroupAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/LongestPalindromeSubstrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/LongestRepeatingCharacterReplacement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/LongestSubStringWithoutRepeatingChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ValidAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/ValidParenthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tree/MaxHeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/tree/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaProject/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arr/MinRotatedSortArr2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arr/SearchInRotSortArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/matrices/NoOfShifts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/redo/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/redo/TwoSum2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arr/SearchInRotatedSortedArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arr/SearchInRotatedSortedArr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/arr/SearchInRotatedSortedArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/arr/SearchInRotatedSortedArr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/redo/MaxProdSubArr.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/redo/MaxProdSubArr.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +58,48 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MaxProdSubArr">
-    <configuration name="BuySellStocks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.redo.BuySellStocks" />
+  <component name="RunManager" selected="Application.ThreeSum">
+    <configuration name="NoOfShifts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.matrices.NoOfShifts" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.matrices.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInRotSortArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.arr.SearchInRotSortArr" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.arr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInRotatedSortedArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.arr.SearchInRotatedSortedArr" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.arr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.redo.ThreeSum" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -71,47 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.redo.ContainsDuplicate" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.redo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxProdSubArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.redo.MaxProdSubArr" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.redo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MaxSumSubArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.redo.MaxSumSubArr" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.redo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProdOfArrExSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.redo.ProdOfArrExSelf" />
+    <configuration name="TwoSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.redo.TwoSum2" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaxProdSubArr" />
-        <item itemvalue="Application.MaxSumSubArr" />
-        <item itemvalue="Application.ProdOfArrExSelf" />
-        <item itemvalue="Application.ContainsDuplicate" />
-        <item itemvalue="Application.BuySellStocks" />
+        <item itemvalue="Application.ThreeSum" />
+        <item itemvalue="Application.TwoSum2" />
+        <item itemvalue="Application.NoOfShifts" />
+        <item itemvalue="Application.SearchInRotSortArr" />
+        <item itemvalue="Application.SearchInRotatedSortedArr" />
       </list>
     </recent_temporary>
   </component>

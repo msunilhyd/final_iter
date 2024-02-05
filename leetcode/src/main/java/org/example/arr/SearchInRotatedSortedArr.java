@@ -3,8 +3,10 @@ package org.example.arr;
 public class SearchInRotatedSortedArr {
 
     public static void main(String[] args) {
-        int[] nums = {4, 5, 6, 7, 8, 9, 1, 2, 3};
-        System.out.println(find(nums, 4));
+//        int[] nums = {4, 5, 6, 7, 8, 9, 1, 2, 3};
+        int[] nums = {4, 5, 6, 7, 8, 9, 0, 1, 2, 3};
+
+        System.out.println(find(nums, 0));
     }
     public static int find(int[] nums, int target) {
         int left = 0;
