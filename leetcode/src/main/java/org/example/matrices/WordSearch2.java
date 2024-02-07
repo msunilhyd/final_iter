@@ -6,7 +6,7 @@ public class WordSearch2 {
     public static char[][] board;
     public static void main(String[] args) {
         char[][] board = {{'A', 'B', 'C', 'E'}, {'S', 'F', 'C', 'S'}, {'A', 'D', 'E', 'E'}};
-        System.out.println(find(board, "ABCESEEDA"));
+        System.out.println(find(board, "ABCCEE"));
     }
 
     public static boolean find(char[][] charBoard, String str) {
