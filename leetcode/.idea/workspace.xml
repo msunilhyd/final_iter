@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="111e6f41-a59e-4859-a1ce-4a0e5973b04d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/matrices/WordSearchWalmart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arr/RotateArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/string/MinimumWindowSubstring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/matrices/WordSearch2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/matrices/WordSearch2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/string/LongestRepeatingCharacterReplacement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/string/LongestRepeatingCharacterReplacement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/matrices/WordSearch2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/matrices/WordSearch2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LongestRepeatingCharacterReplacement">
+  <component name="RunManager" selected="Application.MinimumWindowSubstring">
     <configuration name="LongestRepeatingCharacterReplacement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.string.LongestRepeatingCharacterReplacement" />
       <module name="leetcode" />
@@ -61,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.redo.ThreeSum" />
+    <configuration name="MinimumWindowSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.string.MinimumWindowSubstring" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.redo.*" />
+          <option name="PATTERN" value="org.example.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.redo.TwoSum2" />
+    <configuration name="RotateArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.arr.RotateArr" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.redo.*" />
+          <option name="PATTERN" value="org.example.arr.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinimumWindowSubstring" />
+        <item itemvalue="Application.RotateArr" />
         <item itemvalue="Application.LongestRepeatingCharacterReplacement" />
         <item itemvalue="Application.WordSearchWalmart" />
         <item itemvalue="Application.WordSearch2" />
-        <item itemvalue="Application.ThreeSum" />
-        <item itemvalue="Application.TwoSum2" />
       </list>
     </recent_temporary>
   </component>
